@@ -1,7 +1,7 @@
 from openai import OpenAI
 client = OpenAI(
   base_url="https://api.langdock.com/openai/eu/v1",
-  api_key="sk-vbuwofP9s-7mwmzXRiGtr9AeTqDwDnas4uKaZfhpJTMw1IiNikDx_uATeqrSmqyfDZT5zrO042r-AUbstGPA2A"
+  api_key=" "
 )
 
 completion = client.chat.completions.create(
