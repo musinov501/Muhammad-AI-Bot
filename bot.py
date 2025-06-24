@@ -7,7 +7,7 @@ from aiogram.types import Message
 from openai import OpenAI
 
 
-TOKEN = '7826322147:AAGA4oeSTNGmOhputuADfIpp0iEQ96WKLq0'
+TOKEN = ' '
 
 logging.basicConfig(level = logging.INFO)
 bot = Bot(TOKEN)
