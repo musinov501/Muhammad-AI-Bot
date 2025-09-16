@@ -26,6 +26,8 @@ Muhammad AI Bot is a Telegram bot that interacts with users and generates AI-bas
    git clone https://github.com/your-username/telegram-ai-bot.git
    cd telegram-ai-bot
 
-2.  ```python -m venv venv
+2.
+ ```
+python -m venv venv
 source venv/bin/activate   # Linux / Mac
 venv\Scripts\activate      # Windows
