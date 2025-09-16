@@ -13,12 +13,6 @@ Muhammad AI Bot is a Telegram bot that interacts with users and generates AI-bas
 
 ---
 
-## Screenshots
-
-*(Optional: add screenshots of your bot conversation here)*
-
----
-
 ## Installation
 
 1. **Clone the repository:**
